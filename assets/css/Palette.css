@@ -1,0 +1,82 @@
+.section-25 {
+  position: relative;
+  width: 100%;
+  display: block;
+  background-color: #fff;
+}
+
+.section-25-layout {
+  max-width: 1320px;
+  padding: 55px 15px;
+  margin: 0 auto;
+}
+
+.section-25-container {
+  width: 100%;
+  text-align: center;
+}
+
+.section-25-text-content {
+  width: 100%;
+  text-align: center;
+}
+
+.section-25-text-content h1 {
+  font-size: 55px;
+  font-family: var(--secondary-font);
+  padding-bottom: 36px !important;
+}
+
+.section-25-text-content p {
+  font-size: 20px;
+  padding-bottom: 20px !important;
+}
+
+.section-25-items {
+  width: 100%;
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  gap: 25px;
+}
+
+.section-25-item {
+  width: 100%;
+  text-align: center;
+  padding: 25px;
+  transition: all ease 2s;
+}
+
+.section-25-item:hover {
+  box-shadow: 0px 16px 49px -15px rgba(18, 18, 18, 0.5);
+}
+
+.section-25-item img {
+  width: 100%;
+}
+
+.section-25-item h4 {
+  font-size: 25px;
+  font-family: var(--secondary-font);
+  padding-top: 15px !important;
+}
+
+.section-25-item p {
+  font-size: 18px;
+  padding-top: 15px !important;
+}
+
+@media (max-width: 768px) {
+  .section-25-items {
+    flex-direction: column;
+  }
+  .section-25-item {
+    width: 100%;
+  }
+}
+
+@media (max-width: 425px) {
+  .section-25-text-content h1 {
+    font-size: 26px;
+  }
+}

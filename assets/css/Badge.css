@@ -1,0 +1,74 @@
+.section-15 {
+  position: relative;
+  width: 100%;
+  background-color: var(--secondary-color);
+}
+
+.section-15-layout {
+  max-width: 1320px;
+  padding: 55px 15px;
+  margin: 0 auto;
+}
+
+.section-15-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.section-15-text-content {
+  width: 35%;
+  text-align: center;
+}
+
+.section-15-text-content h1 {
+  font-family: var(--secondary-font);
+  color: #fff !important;
+  font-size: 35px;
+  line-height: 55px;
+}
+
+.section-15-badges {
+  width: 65%;
+}
+
+.section-15-badges img {
+  width: 110px !important;
+}
+
+.section-15 .owl-nav,
+.section-15 .owl-dots {
+  display: none;
+}
+
+.section-15 .owl-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .section-15-container {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .section-15-text-content {
+    width: 100%;
+  }
+  .section-15-badges {
+    width: 100%;
+  }
+}
+
+@media (max-width: 425px) {
+  .section-15-text-content h1 {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .section-15 .mySwiper4 {
+    display: block !important;
+    width: 80% !important;
+  }
+}

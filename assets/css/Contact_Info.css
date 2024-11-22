@@ -1,0 +1,109 @@
+.section-21 {
+  position: relative;
+  width: 100%;
+  background-color: var(--secondary-color);
+}
+
+.section-21-layout {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 55px 15px;
+}
+
+.section-21-container {
+  width: 100%;
+  text-align: center;
+}
+
+.section-21-text-content {
+  width: 100%;
+}
+
+.section-21-text-content h1 {
+  font-size: 55px;
+  color: #fff !important;
+  font-family: var(--secondary-font);
+  padding-bottom: 36px !important;
+}
+
+.section-21-text-content p {
+  font-size: 20px;
+  color: #fff !important;
+  padding-bottom: 20px !important;
+}
+
+.section-21-buttons {
+  width: 100%;
+  padding-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.section-21-buttons a {
+  cursor: pointer;
+  align-items: center;
+  display: inline-flex;
+  vertical-align: top;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 600;
+  box-sizing: border-box;
+  border-radius: 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  white-space: nowrap;
+  height: 55px;
+  color: #ffffff !important;
+  background-color: #121212;
+  padding: 17px 40px;
+  border: 2px solid #121212 !important;
+  box-shadow: 0 7px 25px rgba(18, 18, 18, 0.2);
+  transition: all ease 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20%;
+}
+
+.section-21-buttons a:hover {
+  background-color: var(--primary-color);
+  color: #121212 !important;
+}
+
+.section-21-links{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.section-21-links a{
+    color: #fff !important;
+    font-size: 20px;
+    transition: all ease 0.2s;
+}
+
+.section-21-links a:hover{
+    color: var(--primary-color) !important;
+}
+
+@media (max-width: 768px) {
+    .section-21-buttons a{
+        width: 35%;
+    }
+    .section-21-links{
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 425px){
+    .section-21-text-content h1{
+        font-size: 26px;
+    }
+    .section-21-buttons a{
+        width: 50%;
+    }
+}

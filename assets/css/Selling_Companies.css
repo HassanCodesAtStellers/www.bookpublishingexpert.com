@@ -1,0 +1,42 @@
+.section-19 {
+  position: relative;
+  width: 100%;
+  background-color: #fff;
+}
+
+.section-19-layout {
+  max-width: 1320px;
+  padding: 55px 15px;
+  margin: 0 auto;
+}
+
+.section-19-container {
+  width: 100%;
+}
+
+.section-19-text-content {
+  width: 100%;
+  text-align: center;
+}
+
+.section-19-text-content h1{
+    font-size: 55px;
+    font-family: var(--secondary-font);
+    padding-bottom: 36px !important;
+}
+
+.section-19-images{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.section-19-images img{
+    width: 100%;
+}
+
+@media (max-width: 576px) {
+    .section-19{
+        display: none;
+    }
+}

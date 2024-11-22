@@ -1,0 +1,168 @@
+.section-22 {
+  position: relative;
+  width: 100%;
+  background-color: #fff;
+}
+
+.section-22-layout {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 55px 15px;
+}
+
+.section-22-container {
+  width: 100%;
+}
+
+.section-22-text-content {
+  text-align: center;
+}
+
+.section-22-text-content h1 {
+  font-size: 55px;
+  font-family: var(--secondary-font);
+  padding-bottom: 36px !important;
+}
+
+.section-22-text-content p {
+  font-size: 20px;
+  padding-bottom: 20px !important;
+}
+
+.section-22 .owl-carousel{
+  display: block !important;
+}
+
+.section-22 .owl-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-22 .item {
+  width: 70%;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.section-22 .owl-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.section-22 .owl-nav span {
+    font-size: 40px;
+    padding: 10px 25px;
+}
+
+
+.section-22-item-text {
+  width: 60%;
+}
+
+.section-22-item-text h4 {
+  font-size: 25px;
+  padding-bottom: 15px !important;
+}
+
+.section-22-item-text h2 {
+  font-size: 26px;
+  font-family: var(--secondary-font);
+  padding-bottom: 15px !important;
+}
+
+.section-22-item-text p {
+  font-size: 20px;
+  padding-bottom: 15px !important;
+}
+
+.section-22-item-image {
+  width: 40%;
+}
+
+.section-22-item-buttons {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.section-22-item-buttons a {
+  cursor: pointer;
+  align-items: center;
+  vertical-align: top;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 600;
+  box-sizing: border-box;
+  border-radius: 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  white-space: nowrap;
+  height: 55px;
+  color: #ffffff !important;
+  background-color: #121212;
+  padding: 17px 40px;
+  border: 2px solid #121212 !important;
+  box-shadow: 0 7px 25px rgba(18, 18, 18, 0.2);
+  transition: all ease 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-22-item-buttons a:hover {
+  background-color: #fff;
+  color: #121212 !important;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.fadeIn {
+  animation: fadeIn 1s forwards;
+}
+
+.fadeOut {
+  animation: fadeOut 1s forwards;
+}
+
+
+@media (max-width: 768px) {
+    .section-22-item-image{
+        display: none;
+    }
+    .section-22-item-text{
+        width: 100%;
+        text-align: center;
+    }
+    .section-22-item-buttons{
+        justify-content: center;
+    }
+    .section-22 .item{
+        width: 100%;
+    }
+}
+
+@media (max-width: 425px){
+    .section-22-text-content h1{
+        font-size: 26px;
+    }
+}

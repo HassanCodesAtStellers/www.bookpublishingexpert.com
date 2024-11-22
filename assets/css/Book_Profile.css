@@ -1,0 +1,153 @@
+.section-27 {
+  position: relative;
+  width: 100%;
+  background-color: #f5f5f4;
+}
+
+.section-27-layout {
+  max-width: 1320px;
+  padding: 55px 15px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.section-27-container {
+  width: 100%;
+}
+
+.section-27-text-content h4 {
+  font-family: var(--secondary-font);
+  font-size: 30px;
+  padding-bottom: 36px !important;
+}
+
+.section-27-main-content {
+  width: 100%;
+  display: flex;
+  align-items: top;
+  justify-content: space-between;
+  gap: 60px;
+}
+
+.section-27-profile-image {
+  width: 35%;
+}
+
+.section-27-profile-image img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.section-27-profile-text {
+  width: 65%;
+}
+
+.section-27-profile-text h1 {
+  font-family: var(--secondary-font);
+}
+
+.section-27-profile-text h4 {
+  font-size: 16px;
+  font-weight: 400;
+  padding: 20px 0 !important;
+}
+
+.section-27-profile-text p {
+  color: #999999 !important;
+  padding: 20px 0 !important;
+}
+
+.section-27-stars i {
+  font-size: 13px !important;
+}
+
+.section-27-details {
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+}
+
+.section-27-points {
+  width: fit-content;
+}
+
+.section-27-points p {
+  padding: 10px 0 !important;
+  font-size: 20px !important;
+}
+
+.section-27-info {
+  width: fit-content;
+}
+
+.section-27-info p {
+  padding: 10px 0 !important;
+  font-size: 20px !important;
+  color: #121212 !important;
+  font-weight: 500;
+}
+
+.section-27-profile-text a {
+  margin: 50px 0 !important;
+  cursor: pointer;
+  align-items: center;
+  vertical-align: top;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 600;
+  box-sizing: border-box;
+  border-radius: 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  white-space: nowrap;
+  height: 55px;
+  color: #ffffff !important;
+  background-color: #121212;
+  padding: 17px 40px;
+  border: 2px solid #121212 !important;
+  box-shadow: 0 7px 25px rgba(18, 18, 18, 0.2);
+  transition: all ease 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+}
+
+.section-27-profile-text a:hover {
+  background-color: #f5f5f4;
+  color: #121212 !important;
+}
+
+.section-27-serch-info p{
+    padding: 5px 0 !important;
+  font-size: 15px !important;
+}
+
+@media (max-width: 768px) {
+    .section-27-main-content{
+        display: block;
+    }
+    .section-27-profile-image{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .section-27-profile-image img{
+        width: 70%;
+        margin: 0 auto;
+    }
+    .section-27-profile-text{
+        width: 100%;
+        padding-top: 50px !important;
+    }
+}
+
+@media (max-width: 480px){
+    .section-27-profile-image img{
+        width: 100%;
+        margin: 0 auto;
+    }
+} 
