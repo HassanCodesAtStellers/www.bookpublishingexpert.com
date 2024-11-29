@@ -7,19 +7,19 @@
         <div class="section-14-container">
             <div class="section-14-text-content">
                 <h1>Our Showcase</h1>
-                <p>Explore our portfolio and get to know Book Publisher Expert!</p>
+                <p>At Book Publisher Expert, we feel proud in our extensive portfolio of publications.</p>
             </div>
 
             <div class="section-14-profile">
                 <div class="section-14-navbar">
-                    <a class="section-14-category active" data-category="fiction_books">Fiction</a>
-                    <a class="section-14-category" data-category="informative_books">Informative</a>
-                    <a class="section-14-category" data-category="biography_books">Biography</a>
+                    <a class="section-14-category active" data-category="fiction_books">Literature & Fiction</a>
+                    <a class="section-14-category" data-category="informative_books">Self-Help</a>
+                    <a class="section-14-category" data-category="biography_books">Biographies & Memoirs</a>
                     <a class="section-14-category" data-category="nonfiction_books">Non-fiction</a>
-                    <a class="section-14-category" data-category="memoir_books">Memoir</a>
-                    <a class="section-14-category" data-category="action_books">Action</a>
-                    <a class="section-14-category" data-category="adult_books">Adult Books</a>
-                    <a class="section-14-category" data-category="children_books">Chlidren's</a>
+                    <a class="section-14-category" data-category="memoir_books">Business & Investing</a>
+                    <a class="section-14-category" data-category="action_books">Mystery & Suspense</a>
+                    <a class="section-14-category" data-category="adult_books">Romance</a>
+                    <a class="section-14-category" data-category="children_books">Children's eBooks</a>
                     <a class="section-14-category" data-category="comic_books">Comics</a>
                 </div>
 
