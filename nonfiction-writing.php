@@ -30,13 +30,13 @@
                         <img src="assets/images/movie-writing-image.webp">
                     </div>
                     <div class="section-16-main-text">
-                        <h1>YOUR KNOWLEDGE, OUR NARRATIVE – NON-FICTION WRITING AT ITS BEST</h1>
+                        <h1>Your Knowledge, Our Narrative - Non-Fiction Writing at it's Best</h1>
 
-                        <p>Do you believe your knowledge or life experiences deserve a place on bookshelves? You are totally correct, and we are here to make it happen.</p>
+                        <p>Where fiction writing requires a lot of creative vigor, non-fiction requires a firmer grasp on the subject matter and the leading authorities of the field. </p>
 
-                        <p>Our Creative Non-Fiction Writing Services are about converting your valuable knowledge or captivating life stories into well-crafted books.</p>
+                        <p>Book Publisher Expert’s non-fiction writing services not only offer a cohesive manuscript but one that is free from any errors and provides valuable information to the existing body of literature in your area of expertise.</p>
 
-                        <p>We specialise in writing nonfiction, telling facts and creating adventures for readers to go on. Nonfiction writing with us is an adventure in which your ideas and experiences take centre stage. Our authors are experts in writing about nonfiction topics, ensuring that every piece of information is seamlessly integrated into a story as captivating as fiction. From biographies to scholarly writings, our nonfiction creative writing aims to make the actual world as interesting as the imagined one.</p>
+                        <p>From autobiographies, self-help books, personal development books, true crime books, travel books, and adventure books, we do it all and to the highest quality. There is no premade ebook template; cookie-cutter replication with BPE, each book is written from the ground up, meticulously considering the genre, the aim of the book, as well as the publication platforms it will eventually end up on. So, whether your non-fiction book ends up on Amazon, Apple iBook, or Kobo, it reaches the intended audience. </p>
 
                         <div class="section-16-buttons">
                             <a href="javascript:void(0)" class="show-popup">Get Started</a>
@@ -115,7 +115,7 @@
                         <div class="section-18-item">
                             <img src="assets/images/section-18-image06.webp">
                             <h4>Timely Delivery</h4>
-                            <p>OSet milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
+                            <p>Set milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 50% 100%;">
                             <img src="assets/images/section-18-image05.webp">
@@ -129,12 +129,12 @@
                             <h4>Breathtaking Illustrations and Cover Designs </h4>
                             <p>Elevate the overall look and feel of your autobiography with the aid of our design and illustration teams. </p>
                         </div>
-                        <div class="section-18-item" style="transform-origin: 100% 100%;">
+                        <div class="section-18-item" style="transform-origin: 100% 50%;">
                             <img src="assets/images/section-18-image05.webp">
                             <h4>Complete Ownership</h4>
                             <p>As the author, you receive the copyrights of any work our ghost writers produce; no exceptions! Have complete legal ownership of your autobiography, along with the copyright certificate.</p>
                         </div>
-                        <div class="section-18-item" style="transform-origin: 100% 50%;">
+                        <div class="section-18-item" style="transform-origin: 100% 100%;">
                             <img src="assets/images/section-18-image08.webp">
                             <h4>Publishing and Marketing</h4>
                             <p>BPE ensures a complete service, from writing all the way to the publication and marketing of your autobiography. We ensure your book is published on all key platforms like Amazon, Apple Books, Barnes & Nobel, and a host of others. </p>

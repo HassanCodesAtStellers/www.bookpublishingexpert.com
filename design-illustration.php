@@ -130,12 +130,12 @@
                             <h4>Design Revisions & Touch-ups</h4>
                             <p>BPE packages offer free revisions to ensure each design element is to your liking. </p>
                         </div>
-                        <div class="section-18-item" style="transform-origin: 100% 100%;">
+                        <div class="section-18-item" style="transform-origin: 100% 50%;">
                             <img src="assets/images/section-18-image05.webp">
                             <h4>Branding & Promotion</h4>
                             <p>Looking to have your logo on the cover? Maybe have a set theme you want to incorporate? We can do it all. </p>
                         </div>
-                        <div class="section-18-item" style="transform-origin: 100% 50%;">
+                        <div class="section-18-item" style="transform-origin: 100% 100%;">
                             <img src="assets/images/section-18-image08.webp">
                             <h4>Accessories (Logos, Business cards, Postcards, & Website Design)</h4>
                             <p>If you require any additional accessories as an author, such as your logo, business cards, or a personalized website, we offer bundle packages that guarantee both quality and affordability.</p>

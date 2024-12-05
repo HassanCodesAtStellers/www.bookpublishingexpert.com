@@ -16,8 +16,8 @@
         <section class="header-display">
             <img src="assets/images/genre-bg-image.jpg">
             <div class="header-display-text-content">
-                <h1>We’re Experienced In Multiple Genre</h1>
-                <p>Expertise in a Wide Range of Genres</p>
+                <h1>Endless Genre Selection, Endless Possibilities </h1>
+                <p>BPE has something for everyone</p>
             </div>
         </section>
     </header>
@@ -30,7 +30,7 @@
 
                 <div class="genre-section-text-content">
                     <h1>We Produce Quality Books in All Genres</h1>
-                    <p>Book Publisher Expert 's authors are well educated and have extensive industry experience. We are more than just a book writing service; we can help you achieve your goal of becoming an author.</p>
+                    <p>With an extensive team of expert writers, editors, and proofreaders with detailed backgrounds in every genre under the sun, you can rest assured that quality of work is never an issue with Book Publisher Expert. Forget the generic ebook template and craft the perfect literary with BPE! </p>
                 </div>
 
                 <div class="tabs-container">

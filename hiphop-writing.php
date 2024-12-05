@@ -16,8 +16,8 @@
         <section class="header-display">
             <img src="assets/images/hiphop-writing-bg-image.jpeg">
             <div class="header-display-text-content">
-                <h1>Change The Culture: Write Hip-Hop Songs</h1>
-                <p>Ghostwriter Rap Mastery - Beats, Bars, and Beyond</p>
+                <h1>Become a Master Lyricist, Impact the Culture in a Meaningful Way!</h1>
+                <p>BPE offers the aid of some of the industry’s best ghostwriters, hidden MCs that have revolutionized the rap game time and time again.</p>
             </div>
         </section>
     </header>
@@ -31,13 +31,21 @@
                         <img src="assets/images/hiphop-writing-image.webp">
                     </div>
                     <div class="section-16-main-text">
-                        <h1>CRAFTING BARS, BUILDING BEATS – HIP HOP WRITING UNLEASHED</h1>
+                        <h1>Crafting Bars, Building Beats - Hip Hop Writing Unleashed</h1>
 
-                        <p>Looking for a hip-hop ghostwriter online? You’ve come to the right place!</p>
+                        <p>Everyone in the industry is aware of the nuances and indecencies of rap. From creative themes to the overall flows, the bars, rhyming schemes, and beats, a well-crafted rap is nothing less than a Mona Lisa.</p>
 
-                        <p>Staying ahead in the hip-hop game takes more than dropping fire verses, it’s about creating a lasting impact. While artists come and go, the real ones leave their mark. Don’t let the hustle of the industry hold you back.</p>
+                        <p>At BPE, we have some of the most experienced hip-hop ghostwriting professionals with proficiency in most key forms of rap, like</p>
 
-                        <p>Our top-tier rap ghostwriters are here to keep your lyrics sharp and your flow on point while you focus on your grind. We’re the minds behind the bars, ensuring your tracks dominate playlists. Whether it’s gangster rap, trap, G-funk, or lo-fi, our team brings the skills, authenticity, and street smarts to elevate your music and make it unforgettable.</p>
+                        <ul>
+                            <li>Conscious Rap (Kendrick Lamar, Not Like Us),</li>
+                            <li>East Coast Rap (The Notorious B.I.G., Juicy),</li>
+                            <li>Southern Rap (OutKast, Ms. Jackson),</li>
+                            <li>Hyphy Rap (E-40, Tell Me When to Go)</li>
+                            <li>and so many others. </li>
+                        </ul>
+
+                        <p>Whether you have an original style or are looking to give homage to a beloved MC, we can provide you with the penmanship to help complete your next big hit.</p>
 
                         <div class="section-16-buttons">
                             <a href="javascript:void(0)" class="show-popup">Get Started</a>
@@ -94,34 +102,34 @@
                         <div class="section-18-item" style="transform-origin: 0% 0%;">
                             <img src="assets/images/section-18-image01.webp">
                             <h4>Qualified Ghostwriters</h4>
-                            <p>Outstanding academic careers, a long list of prior publications, and collaboration with experienced book editors, proofreaders, and publishers lead to the creation of an outstanding autobiography. </p>
+                            <p>Our hip-hop ghostwriters master everything from the rhymes to the cadence to the flow.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 0% 50%;">
                             <img src="assets/images/section-18-image02.webp">
-                            <h4>Unmatched Writing Quality</h4>
-                            <p>When we talk about quality what we mean is unique, non-repetitive, redundancy-free, 100% original, human-written autobiographies. </p>
+                            <h4>Quality of Bars</h4>
+                            <p>Our ghostwriters provide quality bars, lines that offer deeper meaning and resonate with your audience while reflecting your style and life. </p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 0% 100%;">
                             <img src="assets/images/section-18-image03.webp">
-                            <h4>Pitch-Perfect Formatting</h4>
-                            <p>When it comes to publishing your book, up to 78% are rejected due to poor formatting. Now, you can look up each formatting guideline for publication, and fiddle around with that for a month or so. Or, you can have experts trained for each publication platform handle your autobiography formatting. </p>
+                            <h4>Original Work</h4>
+                            <p>BPE ensures 100% original songs to all its consumers; you will receive a genuine rap song written from scratch.</p>
                         </div>
                     </div>
                     <div class="section-18-items">
                         <div class="section-18-item" style="transform-origin: 50% 0%;">
                             <img src="assets/images/section-18-image04.webp">
-                            <h4>Authoritative Content</h4>
-                            <p>Writing that establishes a commanding tone of voice, establishing your authority. </p>
+                            <h4>Complete Ownership</h4>
+                            <p>To ensure your ownership, we also provide copyright certifications from the relevant authorities. </p>
                         </div>
                         <div class="section-18-item">
                             <img src="assets/images/section-18-image06.webp">
                             <h4>Timely Delivery</h4>
-                            <p>OSet milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
+                            <p>BPE understands the importance of meeting deadlines and album launches. We always complete each order within the specified time! no exceptions.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 50% 100%;">
                             <img src="assets/images/section-18-image05.webp">
-                            <h4>Personalized Narrative</h4>
-                            <p>Autobiographies need to be personal more than any other book, and our ghost writers know that well. Receive personalized work each time, reflecting your lived experiences in an engaging, and creative manner for your audience of readers. </p>
+                            <h4>Plagiarism Free</h4>
+                            <p>We spend a significant amount of the writing process making sure your bars are unique; we automatically detect and remove any plagiarism from previously published works. </p>
                         </div>
                     </div>
                     <div class="section-18-items">
@@ -130,12 +138,12 @@
                             <h4>Breathtaking Illustrations and Cover Designs </h4>
                             <p>Elevate the overall look and feel of your autobiography with the aid of our design and illustration teams. </p>
                         </div>
-                        <div class="section-18-item" style="transform-origin: 100% 100%;">
+                        <div class="section-18-item" style="transform-origin: 100% 50%;">
                             <img src="assets/images/section-18-image05.webp">
                             <h4>Complete Ownership</h4>
                             <p>As the author, you receive the copyrights of any work our ghost writers produce; no exceptions! Have complete legal ownership of your autobiography, along with the copyright certificate.</p>
                         </div>
-                        <div class="section-18-item" style="transform-origin: 100% 50%;">
+                        <div class="section-18-item" style="transform-origin: 100% 100%;">
                             <img src="assets/images/section-18-image08.webp">
                             <h4>Publishing and Marketing</h4>
                             <p>BPE ensures a complete service, from writing all the way to the publication and marketing of your autobiography. We ensure your book is published on all key platforms like Amazon, Apple Books, Barnes & Nobel, and a host of others. </p>

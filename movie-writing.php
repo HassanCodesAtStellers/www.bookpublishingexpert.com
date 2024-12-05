@@ -130,12 +130,12 @@
                             <h4>Breathtaking Illustrations and Cover Designs </h4>
                             <p>Elevate the overall look and feel of your autobiography with the aid of our design and illustration teams. </p>
                         </div>
-                        <div class="section-18-item" style="transform-origin: 100% 100%;">
+                        <div class="section-18-item" style="transform-origin: 100% 50%;">
                             <img src="assets/images/section-18-image05.webp">
                             <h4>Complete Ownership</h4>
                             <p>As the author, you receive the copyrights of any work our ghost writers produce; no exceptions! Have complete legal ownership of your autobiography, along with the copyright certificate.</p>
                         </div>
-                        <div class="section-18-item" style="transform-origin: 100% 50%;">
+                        <div class="section-18-item" style="transform-origin: 100% 100%;">
                             <img src="assets/images/section-18-image08.webp">
                             <h4>Publishing and Marketing</h4>
                             <p>BPE ensures a complete service, from writing all the way to the publication and marketing of your autobiography. We ensure your book is published on all key platforms like Amazon, Apple Books, Barnes & Nobel, and a host of others. </p>

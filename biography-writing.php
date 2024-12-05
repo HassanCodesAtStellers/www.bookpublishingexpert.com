@@ -16,7 +16,7 @@
             <img src="assets/images/biography-writing-bg-image.jpg">
             <div class="header-display-text-content">
                 <h1>Biography Writing</h1>
-                <p>Narrating Journeys, Inspiring Generations.</p>
+                <p>Document, Preserve & Inspire! </p>
             </div>
         </section>
     </header>
@@ -30,15 +30,17 @@
                         <img src="assets/images/biography-writing-image.webp">
                     </div>
                     <div class="section-16-main-text">
-                        <h1>BRINGING LIFE STORIES TO THE FOREFRONT</h1>
+                        <h1>Bring Your Biography to Life with BPE</h1>
 
-                        <p>Imagine a book that not only recounts a tale but also honours a life. Our best biography writing services specialise in accomplishing just that.</p>
+                        <p>A biography is a time capsule, a letter to the coming generations, inspiring them in ways that most things could not. Biographies have the power to elevate people from their circumstances through the valuable lessons held within the covers.</p>
 
-                        <p>When creating a biography, we delve deeply into people's lives, unearthing milestones, overcoming obstacles, and realising ambitions.</p>
+                        <p>This makes writing a biography a heavy burden, largely due to the responsibility it places on the shoulders of the author. They have to convey their message, their life’s story, in a way that also benefits the masses.</p>
 
-                        <p>Our approach is personal, our research rigorous, and our writing style suited to capture the soul of the individual. We are not your typical biography writing technology firm; we preserve legacies and share inspiring teachings.</p>
+                        <p>Presenting anecdotes in a way that they apply to the populace at large is not an easy task. Capturing the emotions and gravity of each situation that has shaped you into the person you are today is equally challenging.</p>
 
-                        <p>Our expert biography writing services may assist you with the following:</p>
+                        <!-- <p>While you may be a cut above the rest in your life, writing biographies is our specialty. BPE understands that your drafts and manuscript ideas are not just another book, but they hold your legacy, and we honor that trust.</p> -->
+
+                        <p>BPE houses a team of experts in biography writing, offering comprehensive services in:</p>
                         <ul>
                             <li>Writing a brief biography</li>
                             <li>Writing a personal biography</li>
@@ -122,7 +124,7 @@
                         <div class="section-18-item">
                             <img src="assets/images/section-18-image06.webp">
                             <h4>Timely Delivery</h4>
-                            <p>OSet milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
+                            <p>Set milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 50% 100%;">
                             <img src="assets/images/section-18-image05.webp">
@@ -136,12 +138,12 @@
                             <h4>Breathtaking Illustrations and Cover Designs </h4>
                             <p>Elevate the overall look and feel of your autobiography with the aid of our design and illustration teams. </p>
                         </div>
-                        <div class="section-18-item" style="transform-origin: 100% 100%;">
+                        <div class="section-18-item" style="transform-origin: 100% 50%;">
                             <img src="assets/images/section-18-image05.webp">
                             <h4>Complete Ownership</h4>
                             <p>As the author, you receive the copyrights of any work our ghost writers produce; no exceptions! Have complete legal ownership of your autobiography, along with the copyright certificate.</p>
                         </div>
-                        <div class="section-18-item" style="transform-origin: 100% 50%;">
+                        <div class="section-18-item" style="transform-origin: 100% 100%;">
                             <img src="assets/images/section-18-image08.webp">
                             <h4>Publishing and Marketing</h4>
                             <p>BPE ensures a complete service, from writing all the way to the publication and marketing of your autobiography. We ensure your book is published on all key platforms like Amazon, Apple Books, Barnes & Nobel, and a host of others. </p>
