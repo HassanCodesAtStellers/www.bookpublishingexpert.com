@@ -16,8 +16,8 @@
         <section class="header-display">
             <img src="assets/images/novel-writing-bg-image.jpeg">
             <div class="header-display-text-content">
-                <h1>Writing Novels: Unleash Imagination</h1>
-                <p>Online book writing - from vague ideas to fully developed novels</p>
+                <h1>Writing the Next Best Seller has Never Been Easier</h1>
+                <p>With BPE, ideas come to life in the form of amazingly written, and narrative-driven novels that leave your readers mesmerized.</p>
             </div>
         </section>
     </header>
@@ -31,13 +31,13 @@
                         <img src="assets/images/novel-writing-image.webp">
                     </div>
                     <div class="section-16-main-text">
-                        <h1>CRAFTING YOUR DREAM NOVEL, WORD BY WORD</h1>
+                        <h1>Top the Sales Charts and Beloved by Readers Write a Novel that Demands Praise!</h1>
 
-                        <p>Consider how your book concept will evolve, chapter by chapter, until it becomes a narrative that readers cannot put down. This is the adventure we provide. We recognise that every book begins with a spark - an idea, a character, a scene.</p>
+                        <p>Writing a novel is one of the most demanding tasks you can take on as a creative endeavor. Not only do you need to consider a narrative that attracts readers and keeps their attention, but you also need to ensure that your characters aren’t cookie-cutter archetypes. If that was not hard enough, there are elements like worldbuilding, crafting a journey for the protagonist, establishing a macguffin, and the list goes on and on. </p>
 
-                        <p>Our authors are here to help turn that spark into a blaze. Whether you're writing a fiction book, a horror novel, a mystery novel, or your debut novel, we've got you covered.</p>
+                        <p>While you may be feeling overwhelmed with all of the things we just listed, there’s a whole other side to novel writing. That comes during the tedious process of trying to get your novel published. Each publishing platform has specific requirements and guidelines that you must strictly adhere to in order to increase your chances of publication.</p>
 
-                        <p>We will weave any notion, no matter how vague or detailed, into a tale that is entirely yours. So what are you waiting for? Let's start your book writing adventure. Simply share your narrative with us and watch as our book ghostwriters for hire transform your developing concept into a flowering novel that captivates readers from beginning to end.</p>
+                        <p>The chances of you successfully meeting all of these detailed requirements are probably under 5% for the first few tries. Now, BPE eliminates all these obstacles, leaving you to focus solely on the story you wish to bring to life. Have a team of expert ghostwriters, editors, and proofreaders making sure that your novel manuscript or draft transforms into the next big thing, flooding the bookshelves across the nation.</p>
 
                         <div class="section-16-buttons">
                             <a href="javascript:void(0)" class="show-popup">Get Started</a>
@@ -93,47 +93,47 @@
                     <div class="section-18-items">
                         <div class="section-18-item" style="transform-origin: 0% 0%;">
                             <img src="assets/images/section-18-image01.webp">
-                            <h4>Qualified Ghostwriters</h4>
-                            <p>Outstanding academic careers, a long list of prior publications, and collaboration with experienced book editors, proofreaders, and publishers lead to the creation of an outstanding autobiography. </p>
+                            <h4>Skilled Experts in Novel Writing</h4>
+                            <p>Collaborate with experienced ghostwriters who masterfully blend creativity and professionalism. Whether you’re a budding author searching for guidance or a seasoned writer needing support, BPE provides unmatched ghostwriting services. </p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 0% 50%;">
                             <img src="assets/images/section-18-image02.webp">
-                            <h4>Unmatched Writing Quality</h4>
-                            <p>When we talk about quality what we mean is unique, non-repetitive, redundancy-free, 100% original, human-written autobiographies. </p>
+                            <h4>Genre-Specified & Audience-Centered Storytelling</h4>
+                            <p>From fantasy and romance to thrillers and historical fiction, we specialize in crafting novels that resonate with your target audience. By incorporating market trends and reader expectations, we ensure your story captivates from the first page to the last. </p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 0% 100%;">
                             <img src="assets/images/section-18-image03.webp">
-                            <h4>Pitch-Perfect Formatting</h4>
-                            <p>When it comes to publishing your book, up to 78% are rejected due to poor formatting. Now, you can look up each formatting guideline for publication, and fiddle around with that for a month or so. Or, you can have experts trained for each publication platform handle your autobiography formatting. </p>
+                            <h4>Character-Driven and Plot-Focused </h4>
+                            <p>Create unforgettable characters and gripping plots. Our novel ghostwriters know how to write a novel that hooks readers, combining rich world-building, intricate storytelling, and making characters that have emotional depth to ensure that your novel stands out among the rest.</p>
                         </div>
                     </div>
                     <div class="section-18-items">
                         <div class="section-18-item" style="transform-origin: 50% 0%;">
                             <img src="assets/images/section-18-image04.webp">
-                            <h4>Authoritative Content</h4>
-                            <p>Writing that establishes a commanding tone of voice, establishing your authority. </p>
+                            <h4>Author Account Optimization</h4>
+                            <p>For authors looking to boost their online presence, we help optimize their author accounts, whether they are on Amazon, Apple iBooks, or elsewhere. Maximize your reach, show up in the suggested section, and increase your appeal with an optimized author account.</p>
                         </div>
                         <div class="section-18-item">
                             <img src="assets/images/section-18-image06.webp">
-                            <h4>Timely Delivery</h4>
-                            <p>OSet milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
+                            <h4>On-Time Delivery</h4>
+                            <p>Always meet your publishing deadline with a milestone-based system ensuring smooth and swift production.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 50% 100%;">
                             <img src="assets/images/section-18-image05.webp">
-                            <h4>Personalized Narrative</h4>
-                            <p>Autobiographies need to be personal more than any other book, and our ghost writers know that well. Receive personalized work each time, reflecting your lived experiences in an engaging, and creative manner for your audience of readers. </p>
+                            <h4>Complete Ownership </h4>
+                            <p>You own every word of the work you produce, from the initial draft to the final manuscript. </p>
                         </div>
                     </div>
                     <div class="section-18-items">
                         <div class="section-18-item" style="transform-origin: 100% 0%;">
                             <img src="assets/images/section-18-image07.webp">
-                            <h4>Breathtaking Illustrations and Cover Designs </h4>
-                            <p>Elevate the overall look and feel of your autobiography with the aid of our design and illustration teams. </p>
+                            <h4>Ready-to-Publish Manuscripts</h4>
+                            <p>Have an extensive team of editors and formatters provide you with the perfect publishing manuscript each time.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 100% 50%;">
                             <img src="assets/images/section-18-image05.webp">
-                            <h4>Complete Ownership</h4>
-                            <p>As the author, you receive the copyrights of any work our ghost writers produce; no exceptions! Have complete legal ownership of your autobiography, along with the copyright certificate.</p>
+                            <h4>Long-Term Support</h4>
+                            <p>From writing sequels and spinoffs to looking for a detailed marketing campaign, BPE offers all its clients long-term support, overseeing each step even beyond publishing and printing.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 100% 100%;">
                             <img src="assets/images/section-18-image08.webp">

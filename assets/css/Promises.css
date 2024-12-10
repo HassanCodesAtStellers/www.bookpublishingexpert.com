@@ -53,6 +53,11 @@
   flex-direction: column;
   transition: all ease 0.2s;
   gap: 15px;
+  overflow: auto;
+}
+
+.section-18-item::-webkit-scrollbar {
+  display: none !important;
 }
 
 .section-18-item img {
@@ -74,8 +79,7 @@
   z-index: 99;
   background-color: var(--secondary-color);
   scale: 1.1;
-  box-shadow: -1px 1px 20px 2px #ffffff36;
-  /* border-radius: 30px; */
+  box-shadow: 0px 0px 19px -8px rgba(255, 255, 255, 0.85);
 }
 
 @media (max-width: 992px) {
@@ -89,7 +93,7 @@
     height: auto;
     transform-origin: center !important;
   }
-  .section-18-item:hover{
+  .section-18-item:hover {
     scale: 1.03;
   }
 }

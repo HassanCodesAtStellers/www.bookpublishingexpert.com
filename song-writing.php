@@ -17,7 +17,7 @@
             <img src="assets/images/song-writing-bg-image.jpeg">
             <div class="header-display-text-content">
                 <h1>Song Writing</h1>
-                <p>Turning your musical dreams into chart-topping reality.</p>
+                <p>Transform words on a page into the next hit-single!</p>
             </div>
         </section>
     </header>
@@ -31,13 +31,15 @@
                         <img src="assets/images/song-writing-image.webp">
                     </div>
                     <div class="section-16-main-text">
-                        <h1>CRAFTING YOUR TUNE, WRITING YOUR HIT – SONGWRITING SIMPLIFIED</h1>
+                        <h1>A Touching Expression of Your Creative and Musical Talent. Songwriting Done Right!</h1>
 
-                        <p>Having trouble remembering a song's lyrics? That is exactly what we are here for.</p>
+                        <p>Are you an artist bursting with passion but struggling to find the right words or melody? Or maybe you have the vision but need someone to weave it into lyrical magic? At BPE, we specialize in ghostwriting songs that resonate, captivate, and last the test of time. </p>
 
-                        <p>We convert raw melodies and hazy ideas into polished, hit-worthy tunes.</p>
+                        <p>The soul of any song lies in its story. We craft words that connect with your audience on a deep, personal level; be it love, heartbreak, triumph, or rebellion.</p>
 
-                        <p>Our authors bring originality, musical expertise, and respect for your creative vision to the table. Our authors can capture and translate your personality into memorable music.</p>
+                        <p>A good melody doesn’t just support the lyrics; it amplifies them. Our experts ensure that every word dances perfectly with the music. </p>
+
+                        <p>At BPE, we don’t just write songs; we bring your ideas to life, helping you make an impact with music that stands the test of time. Let’s turn your dream track into a timeless masterpiece. </p>
 
                         <div class="section-16-buttons">
                             <a href="javascript:void(0)" class="show-popup">Get Started</a>
@@ -93,47 +95,47 @@
                     <div class="section-18-items">
                         <div class="section-18-item" style="transform-origin: 0% 0%;">
                             <img src="assets/images/section-18-image01.webp">
-                            <h4>Qualified Ghostwriters</h4>
-                            <p>Outstanding academic careers, a long list of prior publications, and collaboration with experienced book editors, proofreaders, and publishers lead to the creation of an outstanding autobiography. </p>
+                            <h4>Skilled Songwriting Ghostwriter </h4>
+                            <p>our team comprises industry-savvy lyricists and composers who know how to craft hits across all genres, ensuring you get the finest quality songwriting. </p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 0% 50%;">
                             <img src="assets/images/section-18-image02.webp">
-                            <h4>Unmatched Writing Quality</h4>
-                            <p>When we talk about quality what we mean is unique, non-repetitive, redundancy-free, 100% original, human-written autobiographies. </p>
+                            <h4>Emotionally Engaging Lyrics</h4>
+                            <p>We specialize in creating lyrics that evoke emotion and resonate deeply with listeners, giving your music a unique voice. </p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 0% 100%;">
                             <img src="assets/images/section-18-image03.webp">
-                            <h4>Pitch-Perfect Formatting</h4>
-                            <p>When it comes to publishing your book, up to 78% are rejected due to poor formatting. Now, you can look up each formatting guideline for publication, and fiddle around with that for a month or so. Or, you can have experts trained for each publication platform handle your autobiography formatting. </p>
+                            <h4>Original Content</h4>
+                            <p>Every song we create is 100% original, tailored to your vision, and free from plagiarism, ensuring authenticity. </p>
                         </div>
                     </div>
                     <div class="section-18-items">
                         <div class="section-18-item" style="transform-origin: 50% 0%;">
                             <img src="assets/images/section-18-image04.webp">
-                            <h4>Authoritative Content</h4>
-                            <p>Writing that establishes a commanding tone of voice, establishing your authority. </p>
+                            <h4>Full Creative Ownership</h4>
+                            <p>You retain full rights to all the songs we craft for you-your work, your ownership, your success! </p>
                         </div>
                         <div class="section-18-item">
                             <img src="assets/images/section-18-image06.webp">
-                            <h4>Timely Delivery</h4>
-                            <p>OSet milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
+                            <h4>On-Time Delivery</h4>
+                            <p>We prioritize your deadlines and guarantee the timely delivery of fully polished lyrics or complete songwriting projects. </p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 50% 100%;">
                             <img src="assets/images/section-18-image05.webp">
-                            <h4>Personalized Narrative</h4>
-                            <p>Autobiographies need to be personal more than any other book, and our ghost writers know that well. Receive personalized work each time, reflecting your lived experiences in an engaging, and creative manner for your audience of readers. </p>
+                            <h4>Genre Versatility</h4>
+                            <p>From pop and R&B to indie and country, we adapt our songwriting expertise to fit your style and audience. </p>
                         </div>
                     </div>
                     <div class="section-18-items">
                         <div class="section-18-item" style="transform-origin: 100% 0%;">
                             <img src="assets/images/section-18-image07.webp">
-                            <h4>Breathtaking Illustrations and Cover Designs </h4>
-                            <p>Elevate the overall look and feel of your autobiography with the aid of our design and illustration teams. </p>
+                            <h4>Perfect Song Structure</h4>
+                            <p>We ensure your verses, choruses, and bridges are perfectly structured for flow, making your song an instant earworm. </p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 100% 50%;">
                             <img src="assets/images/section-18-image05.webp">
-                            <h4>Complete Ownership</h4>
-                            <p>As the author, you receive the copyrights of any work our ghost writers produce; no exceptions! Have complete legal ownership of your autobiography, along with the copyright certificate.</p>
+                            <h4>High-Quality Song writing </h4>
+                            <p>We uphold exceptional standards to consistently deliver lyrics and melodies that inspire and captivate audiences.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 100% 100%;">
                             <img src="assets/images/section-18-image08.webp">
