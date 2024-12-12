@@ -16,8 +16,8 @@
         <section class="header-display">
             <img src="assets/images/military-fiction-writing-bg-image.jpeg">
             <div class="header-display-text-content">
-                <h1>Writing Military Science Fiction</h1>
-                <p>Your vision, our tactical narrative expertise</p>
+                <h1>Writing Military Fiction</h1>
+                <p>Stories beyond the battlefield</p>
             </div>
         </section>
     </header>
@@ -31,13 +31,9 @@
                         <img src="assets/images/military-fiction-writing-image.webp">
                     </div>
                     <div class="section-16-main-text">
-                        <h1>FROM BATTLEFIELD TACTICS TO PAGE-TURNING DRAMA</h1>
+                        <h1>Expertly Writing The Military Fiction, You Envision</h1>
 
-                        <p>Our military fiction writing services combine raw bravery with the discipline of narrative.</p>
-
-                        <p>Whether it's gritty trench warfare or high-stakes espionage, our military fiction writers for hire provide realism and passion to your story.</p>
-
-                        <p>With years of expertise writing military fiction and a thorough grasp of military life and tactics, we're ready to convert your idea into a captivating story. Let's work together to create a story in which every mission is more than just an operation; it's a trip into the heart of action, valour, and sacrifice.</p>
+                        <p>Our military fiction writing services are here to help you create exciting stories. We can assist with a full-length novel, a short story, or just a few scenes. Our experienced writers bring military settings to life with attention to detail, while keeping the story easy to follow. We focus on themes like teamwork, bravery, and sacrifice, and work closely with you to bring your vision to life. Let us turn your ideas into engaging military fiction that captures your audience's imagination.</p>
 
                         <div class="section-16-buttons">
                             <a href="javascript:void(0)" class="show-popup">Get Started</a>
@@ -116,7 +112,7 @@
                         <div class="section-18-item">
                             <img src="assets/images/section-18-image06.webp">
                             <h4>Timely Delivery</h4>
-                            <p>OSet milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
+                            <p>Set milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 50% 100%;">
                             <img src="assets/images/section-18-image05.webp">

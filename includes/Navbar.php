@@ -1,6 +1,32 @@
 <?php include("includes/head.php"); ?>
 <link rel="stylesheet" href="assets/css/Navbar.css">
 <link rel="stylesheet" href="assets/css/Navbar_Banner.css">
+<link rel="stylesheet" href="assets/css/santa.scss">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/particlesjs/2.2.3/particles.min.js" integrity="sha512-jq8sZI0I9Og0nnZ+CfJRnUzNSDKxr/5Bvha5bn7AHzTnRyxUfpUArMzfH++mwE/hb2efOo1gCAgI+1RMzf8F7g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<div class="marquee">
+    <ul class="marquee-content">
+        <li>
+            <h1>Celebrate Christmas with joy! Enjoy a festive 50% discount on all items. Shop now and save big!</h1>
+            <img src="assets/images/santa.gif" alt="">
+        </li>
+
+    </ul>
+</div>
+
+<script>
+    const root = document.documentElement;
+    const marqueeElementsDisplayed = getComputedStyle(root).getPropertyValue("--marquee-elements-displayed");
+    const marqueeContent = document.querySelector("ul.marquee-content");
+
+    root.style.setProperty("--marquee-elements", marqueeContent.children.length);
+
+    for (let i = 0; i < marqueeElementsDisplayed; i++) {
+        marqueeContent.appendChild(marqueeContent.children[i].cloneNode(true));
+    }
+</script>
+
 <div class="header-top">
     <div class="header-top-layout">
         <div class="header-top-container">

@@ -17,7 +17,7 @@
             <img src="assets/images/speech-writing-bg-image.jpeg">
             <div class="header-display-text-content">
                 <h1>Speech Writing</h1>
-                <p>From thoughts to oratory – your speech, our craft.</p>
+                <p>Writing Speeches The Speak Your Truth</p>
             </div>
         </section>
     </header>
@@ -31,13 +31,13 @@
                         <img src="assets/images/speech-writing-image.webp">
                     </div>
                     <div class="section-16-main-text">
-                        <h1>CRAFTING WORDS THAT INSPIRE, INFLUENCE, AND IMPACT</h1>
+                        <h1>Your Thoughts Find Their Perfect Words With Us </h1>
 
-                        <p>Create an engaging and persuasive speech by presenting your own story. Our Speech Writing Service is committed to making this happen.</p>
+                        <p>Our Speech Writers help you create clear and powerful speeches. We turn your ideas into words that connect with your audience.</p>
 
-                        <p>Great speeches combine sincerity, strategy, and eloquence.</p>
+                        <p> From presentations to personal speeches, we ensure your message is strong and easy to follow. We work with you to bring your thoughts to life in a way that feels natural and confident.</p>
 
-                        <p>Our writers bring your narrative to life by incorporating passion, facts, and persuasion into your speeches. This ensures that you connect with your audience rather than just communicating.</p>
+                        <p> Let us help you speak with clarity and make an impact every time.</p>
 
                         <div class="section-16-buttons">
                             <a href="javascript:void(0)" class="show-popup">Get Started</a>
@@ -116,7 +116,7 @@
                         <div class="section-18-item">
                             <img src="assets/images/section-18-image06.webp">
                             <h4>Timely Delivery</h4>
-                            <p>OSet milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
+                            <p>Set milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 50% 100%;">
                             <img src="assets/images/section-18-image05.webp">

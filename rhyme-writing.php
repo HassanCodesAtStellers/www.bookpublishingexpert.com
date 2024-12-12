@@ -17,7 +17,7 @@
             <img src="assets/images/rhyme-writing-bg-image.jpeg">
             <div class="header-display-text-content">
                 <h1>Rhymes Writing</h1>
-                <p>From concepts to couplets – your rhyme writing journey</p>
+                <p>From verse to art, we play our part. </p>
             </div>
         </section>
     </header>
@@ -31,13 +31,13 @@
                         <img src="assets/images/rhyme-writing-image.webp">
                     </div>
                     <div class="section-16-main-text">
-                        <h1>CRAFTING RHYMES, WEAVING MAGIC</h1>
+                        <h1>Clear, Creative, And Rhythmic Writing Services. </h1>
 
-                        <p>Discover the world of rhythm with our Rhyme Writing Service. Our expert authors focus on generating experiences rather than merely verses.</p>
+                        <p>Our Rhyme Writing Services bring your ideas to life with catchy rhymes. We write poems, songs, jingles, and more that connect with your audience. </p>
 
-                        <p>Our team specialises in creating rhymes that fascinate, narrate, or entertain. We find the right balance between interesting and overwhelming content, so each rhyme hits the mark.</p>
+                        <p>Using different rhyme styles, we make sure your message flows smoothly. We listen to your ideas and help bring them to life with rhymes that fit your needs. </p>
 
-                        <p>Our writers grasp different rhyme schemes, including alternate, linked, internal, and half-rhyme, to create captivating material.</p>
+                        <p>We create rhymes that are easy to remember, clear, and meaningful. Let us help make your vision real with simple, catchy rhymes.</p>
 
                         <div class="section-16-buttons">
                             <a href="javascript:void(0)" class="show-popup">Get Started</a>
@@ -116,7 +116,7 @@
                         <div class="section-18-item">
                             <img src="assets/images/section-18-image06.webp">
                             <h4>Timely Delivery</h4>
-                            <p>OSet milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
+                            <p>Set milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 50% 100%;">
                             <img src="assets/images/section-18-image05.webp">

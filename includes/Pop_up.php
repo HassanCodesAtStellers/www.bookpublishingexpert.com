@@ -54,8 +54,10 @@ if (filter_has_var(INPUT_POST, 'submit')) {
 ?>
 
 <div class="popup-container">
-
+    <img src="assets/images/christmas-bow.png" alt="" class="christmas-bow">
     <div class="popup-section">
+
+
         <div class="close">
             <i class="fa-solid fa-xmark"></i>
         </div>
@@ -73,13 +75,44 @@ if (filter_has_var(INPUT_POST, 'submit')) {
 
             <input type="tel" placeholder="Phone" name="phone" value="<?php echo isset($_POST['phone']) ? $_POST['phone'] : "" ?>">
 
-            <button type="submit" name="submit">Submit</button>
+            <button type="submit" name="submit" class="popup-btn">Submit</button>
 
         </form>
 
         <div class="poster">
         </div>
+
+        <div class="light">
+            <ul class="line">
+                <li class="red"></li>
+                <li class="yellow"></li>
+                <li class="green"></li>
+                <li class="red"></li>
+                <li class="yellow"></li>
+                <li class="green"></li>
+                <li class="red"></li>
+                <li class="yellow"></li>
+                <li class="green"></li>
+                <li class="red"></li>
+                <li class="yellow"></li>
+                <li class="green"></li>
+                <li class="red"></li>
+                <li class="yellow"></li>
+                <li class="green"></li>
+                <li class="red"></li>
+                <li class="yellow"></li>
+                <li class="green"></li>
+                <li class="red"></li>
+                <li class="yellow"></li>
+                <li class="green"></li>
+                <li class="red"></li>
+                <li class="yellow"></li>
+                <li class="green"></li>
+            </ul>
+        </div>
     </div>
+    <div id="container"></div>
+    <!-- <img src="assets/images/snow.png" alt="" class="snow-img" > -->
 </div>
 <script>
     $(document).ready(function() {
