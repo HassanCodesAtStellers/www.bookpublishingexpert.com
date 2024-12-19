@@ -314,7 +314,7 @@ $book = $books[$id];
             <div class="author-page-layout">
                 <div class="author-page-container">
                     <h4><?php echo $book['bookName']; ?></h4>
-                    <p><a href="home">Home</a><i class="fa-sharp fa-solid fa-arrow-right-long"></i> <a href="books">Books</a><i class="fa-sharp fa-solid fa-arrow-right-long"></i><?php echo $book['bookName']; ?></p>
+                    <p><a href="index.php">Home</a><i class="fa-sharp fa-solid fa-arrow-right-long"></i> <a href="books">Books</a><i class="fa-sharp fa-solid fa-arrow-right-long"></i><?php echo $book['bookName']; ?></p>
                 </div>
             </div>
         </div>

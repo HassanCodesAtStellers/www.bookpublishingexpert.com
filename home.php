@@ -21,7 +21,7 @@
                         <h1 id="text1">Publishing</h1>
                         <h1 id="text2">Industry</h1>
                         <h1 id="text3">Insights</h1>
-                        <p id="text4">The publishing industry is a vast sea consisting of endless <br> opportunities for people with creative flare to dominate their <br> respective genre through establishing a devoted fanbase; <br> with global markets expected to push $32 billion the coming 2030, <br> authors can reap numerous benefits lasting decades.</p>
+                        <p id="text4">The publishing industry is a vast sea consisting of endless opportunities for people with creative flare to dominate their respective genre through establishing a devoted fanbase; with global markets expected to push $32 billion the coming 2030, authors can reap numerous benefits lasting decades.</p>
                     </div>
 
 
@@ -31,7 +31,7 @@
                             <div class="item">
                                 <div>
                                     <div class="overlay" id="img-overlay"></div>
-                                    <img src="assets/images/hero-section-silder-image01.jpg" alt="img" id="img">
+                                    <img src="assets/images/hero-section-silder-image01.png" alt="img" id="img">
                                 </div>
 
                                 <div class="hero-section-h2-container">
@@ -45,7 +45,7 @@
                             <div class="item">
                                 <div>
                                     <div class="overlay" id="img-overlay"></div>
-                                    <img src="assets/images/hero-section-silder-image02.jpg" alt="img" id="img">
+                                    <img src="assets/images/hero-section-silder-image02.png" alt="img" id="img">
                                 </div>
 
                                 <div class="hero-section-h2-container">
@@ -59,7 +59,7 @@
                             <div class="item">
                                 <div>
                                     <div class="overlay" id="img-overlay"></div>
-                                    <img src="assets/images/hero-section-silder-image03.jpg" alt="img" id="img">
+                                    <img src="assets/images/hero-section-silder-image03.png" alt="img" id="img">
                                 </div>
 
                                 <div class="hero-section-h2-container">
@@ -835,12 +835,11 @@
                     </div>
                 </div>
                 <div class="section-12-calender">
+                    <!-- Calendly inline widget begin -->
                     <div class="calendly-inline-widget" data-url="https://calendly.com/muhammad-hassan-stellers/30min" data-processed="true" style="position: relative;">
                         <div class="calendly-inline-widget" data-url="https://calendly.com/muhammad-hassan-stellers/30min"></div>
                         <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
                     </div>
-                    <!-- Calendly inline widget begin -->
-
                     <!-- Calendly inline widget end -->
                 </div>
             </div>

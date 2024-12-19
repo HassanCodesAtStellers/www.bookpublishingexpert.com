@@ -17,7 +17,7 @@
             <img src="assets/images/screen-writing-bg-image.jpeg">
             <div class="header-display-text-content">
                 <h1>Screenplay Writing</h1>
-                <p>Your screenwriting partner for every genre.</p>
+                <p>Bringing Your Vision to Life, One Scene at a Time.</p>
             </div>
         </section>
     </header>
@@ -31,13 +31,13 @@
                         <img src="assets/images/screen-writing-image.webp">
                     </div>
                     <div class="section-16-main-text">
-                        <h1>BRINGING YOUR SCREENPLAY TO LIFE</h1>
+                        <h1>Lights, Camera, Screenplay!</h1>
 
-                        <p>Are you stuck with a half-finished screenplay or in need of expert editing? Look no further.</p>
+                        <p>Struggling with a half-written screenplay or looking for expert editing to refine your masterpiece? We’re here to help.</p>
 
-                        <p>Our Screenwriting Service provides skilled scriptwriters who can bring your tales to life. Our staff has expertise selling screenplays to key industry players like Netflix, Amazon Prime etc, and collaborates with directors, producers, and teams to provide important insights on each script.</p>
+                        <p>With our Screenwriting Service, you’ll work with experienced scriptwriters who know how to turn your vision into a captivating screenplay. Backed by industry know-how, our team has successfully pitched scripts to leading producers and directors. We collaborate closely with creative teams, providing valuable insights that elevate every scene.</p>
 
-                        <p>Our writers can transform your ideas into effective scripts, resulting in first drafts that need few revisions.</p>
+                        <p>Whether you need a fresh perspective or a full transformation of your ideas, we’ll craft compelling scripts that are polished and production-ready; minimizing revisions and maximizing impact.</p>
 
                         <div class="section-16-buttons">
                             <a href="javascript:void(0)" class="show-popup">Get Started</a>
@@ -87,58 +87,58 @@
         <div class="section-18-layout">
             <div class="section-18-container">
                 <div class="section-18-text-content">
-                    <h1>What We Promise</h1>
+                    <h1>What We Deliver</h1>
                 </div>
                 <div class="section-18-main-content">
                     <div class="section-18-items">
                         <div class="section-18-item" style="transform-origin: 0% 0%;">
                             <img src="assets/images/section-18-image01.webp">
-                            <h4>Qualified Ghostwriters</h4>
-                            <p>Outstanding academic careers, a long list of prior publications, and collaboration with experienced book editors, proofreaders, and publishers lead to the creation of an outstanding autobiography. </p>
+                            <h4>Expert Ghostwriters</h4>
+                            <p>Our team features highly skilled writers from around the world, bringing unmatched expertise to your project.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 0% 50%;">
                             <img src="assets/images/section-18-image02.webp">
-                            <h4>Unmatched Writing Quality</h4>
-                            <p>When we talk about quality what we mean is unique, non-repetitive, redundancy-free, 100% original, human-written autobiographies. </p>
+                            <h4>Original Content</h4>
+                            <p>We create content that’s 100% unique and plagiarism-free, tailored exclusively to your vision.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 0% 100%;">
                             <img src="assets/images/section-18-image03.webp">
-                            <h4>Pitch-Perfect Formatting</h4>
-                            <p>When it comes to publishing your book, up to 78% are rejected due to poor formatting. Now, you can look up each formatting guideline for publication, and fiddle around with that for a month or so. Or, you can have experts trained for each publication platform handle your autobiography formatting. </p>
+                            <h4>Flawless Formatting</h4>
+                            <p>Every book we craft flows seamlessly, reads beautifully, and is formatted to perfection for any platform.</p>
                         </div>
                     </div>
                     <div class="section-18-items">
                         <div class="section-18-item" style="transform-origin: 50% 0%;">
                             <img src="assets/images/section-18-image04.webp">
-                            <h4>Authoritative Content</h4>
-                            <p>Writing that establishes a commanding tone of voice, establishing your authority. </p>
+                            <h4>Authoritative Writing</h4>
+                            <p>Well-researched, compelling content positions you as a true expert in your field.</p>
                         </div>
                         <div class="section-18-item">
                             <img src="assets/images/section-18-image06.webp">
-                            <h4>Timely Delivery</h4>
-                            <p>OSet milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
+                            <h4>On-Time Delivery</h4>
+                            <p>We respect deadlines, ensuring your project is completed promptly without compromising quality.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 50% 100%;">
                             <img src="assets/images/section-18-image05.webp">
-                            <h4>Personalized Narrative</h4>
-                            <p>Autobiographies need to be personal more than any other book, and our ghost writers know that well. Receive personalized work each time, reflecting your lived experiences in an engaging, and creative manner for your audience of readers. </p>
+                            <h4>Unmatched Quality</h4>
+                            <p>We hold ourselves to the highest standards, delivering exceptional content every time.</p>
                         </div>
                     </div>
                     <div class="section-18-items">
                         <div class="section-18-item" style="transform-origin: 100% 0%;">
                             <img src="assets/images/section-18-image07.webp">
-                            <h4>Breathtaking Illustrations and Cover Designs </h4>
-                            <p>Elevate the overall look and feel of your autobiography with the aid of our design and illustration teams. </p>
+                            <h4>Visual Integration (Terms Apply)</h4>
+                            <p>Enhance your eBook with thoughtfully included images, striking the perfect balance between text and visuals.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 100% 50%;">
                             <img src="assets/images/section-18-image05.webp">
-                            <h4>Complete Ownership</h4>
-                            <p>As the author, you receive the copyrights of any work our ghost writers produce; no exceptions! Have complete legal ownership of your autobiography, along with the copyright certificate.</p>
+                            <h4>Full Ownership</h4>
+                            <p>Your project, your rights—complete authorship and ownership are guaranteed.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 100% 100%;">
                             <img src="assets/images/section-18-image08.webp">
-                            <h4>Publishing and Marketing</h4>
-                            <p>BPE ensures a complete service, from writing all the way to the publication and marketing of your autobiography. We ensure your book is published on all key platforms like Amazon, Apple Books, Barnes & Nobel, and a host of others. </p>
+                            <h4>Always On Time</h4>
+                            <p>Because punctuality is just as important as quality, we deliver on schedule, every single time.</p>
                         </div>
                     </div>
                 </div>
@@ -724,18 +724,18 @@
                     <img src="assets/images/section-20-image.webp">
                 </div>
                 <div class="section-20-text-content">
-                    <h1>Jump-Start Your Next Project!</h1>
-                    <p>With Book Publisher Expert, you are always 10 steps ahead of the competition. BPE ensures you are able to focus on writing the perfect manuscript, one that embodies your vision for your book. While you create your next masterpiece, we deal with everything else including;</p>
+                    <h1>Turn Your Dream Into Reality</h1>
+                    <p>Ready to bring your book to life? At Book Publisher Expert, we don’t just create; we help you publish and connect with your audience. Explore our comprehensive book writing and publishing solutions tailored to your goals.</p>
+                    <h4>Our Services Include:</h4>
                     <ul>
-                        <li>Cover Design</li>
-                        <li>Typesetting</li>
-                        <li>eBook Publication</li>
+                        <li>Cover Design & Typesetting</li>
+                        <li>eBook Publication.</li>
+                        <li>Audiobooks</li>
                         <li>Video Book Trailers</li>
-                        <li>Website design, and SEO</li>
-                        <li>eBook Marketing Campaign</li>
-                        <li>Social Media Marketing</li>
-                        <li>Branding & Reviews.</li>
+                        <li>Web Design & SEO</li>
+                        <li>Branding & Publicity</li>
                     </ul>
+                    <p>Let’s transform your book into a masterpiece!</p>
                     <div class="section-20-buttons">
                         <a href="javascript:void(0)" class="show-popup">Get Started</a>
                         <a href="javascript:void(0)" class="open-chat">Live Chat</a>

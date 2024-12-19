@@ -4,12 +4,12 @@
 <footer>
     <div class="footer-layout">
         <div class="footer-container">
-            <a href="home">
+            <a href="index.php">
                 <img src="assets/images/logo-secondary.svg" alt="logo">
             </a>
             <div class="footer-menu">
                 <div class="footer-item">
-                    <a href="home"><span>
+                    <a href="index.php"><span>
                             HOME
                         </span>
                     </a>
@@ -57,7 +57,7 @@
             </div>
             <hr>
             <div class="footer-copyright">
-                <p>© <?php echo date('Y')?>. All Rights Reserved.</p>
+                <p>© <?php echo date('Y') ?>. All Rights Reserved.</p>
             </div>
         </div>
     </div>

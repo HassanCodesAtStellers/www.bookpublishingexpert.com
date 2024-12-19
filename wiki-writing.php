@@ -17,7 +17,7 @@
             <img src="assets/images/wiki-writing-bg-image.jpeg">
             <div class="header-display-text-content">
                 <h1>Wikipedia Writing</h1>
-                <p>Elevating your online profile through expert Wikipedia writing.</p>
+                <p>Make Your Mark with a Wikipedia Page!</p>
             </div>
         </section>
     </header>
@@ -31,13 +31,13 @@
                         <img src="assets/images/wiki-writing-image.webp">
                     </div>
                     <div class="section-16-main-text">
-                        <h1>FROM DRAFT TO PUBLISHED – WIKIPEDIA WRITING, SIMPLIFIED</h1>
+                        <h1>Make Your Information Stand Out On Wikipedia</h1>
 
-                        <p>Consider your Wikipedia page as a digital portal to explore your life, accomplishments, and legacy. Our Wikipedia Writing Service helps bring your ideas to life.</p>
+                        <p>Our Wikipedia writing services help you create a professional page that gets noticed. We turn your story, achievements, or business into a well-written, reliable article that meets Wikipedia’s guidelines.</p>
 
-                        <p>Our staff develops and maintains your Wikipedia page, ensuring all content is verified, claims are proved, and the article fits all Wikipedia criteria.</p>
+                        <p>Wikipedia is a free online platform where anyone can contribute and share knowledge. Our team ensures the content is accurate, neutral, and easy to understand. We work closely with you to highlight what’s important, making sure your presence is recognized on the world’s biggest online platform. </p>
 
-                        <p>Our authors create tales that correspond with Wikipedia's encyclopedic tone while capturing the essence of your personal or brand story. Let's work to create an informed and effective Wikipedia presence.</p>
+                        <p>Let us help you share your story and boost your credibility today!</p>
 
                         <div class="section-16-buttons">
                             <a href="javascript:void(0)" class="show-popup">Get Started</a>
@@ -116,7 +116,7 @@
                         <div class="section-18-item">
                             <img src="assets/images/section-18-image06.webp">
                             <h4>Timely Delivery</h4>
-                            <p>OSet milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
+                            <p>Set milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 50% 100%;">
                             <img src="assets/images/section-18-image05.webp">

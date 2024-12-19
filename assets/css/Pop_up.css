@@ -46,7 +46,11 @@
   width: 50%;
   /* padding: 25px; */
   padding: 40px 25px 25px 25px;
-  background: linear-gradient(180deg, rgba(162,162,162,1) 0%, rgba(255,255,255,1) 5%);
+  background: linear-gradient(
+    180deg,
+    rgba(162, 162, 162, 1) 0%,
+    rgba(255, 255, 255, 1) 5%
+  );
 
   /* background: #fff;
   width: 50%;
@@ -143,7 +147,7 @@ img.christmas-bow {
   position: absolute;
   left: 0;
   top: 0;
-  width: 150px !important;
+  width: 200px !important;
 }
 
 .light {
@@ -250,15 +254,7 @@ ul.line {
   .line {
     padding: 0;
   }
-  li {
-    margin: 0 15px 20px 15px;
-  }
 }
-
-
-
-
-
 
 .popup-btn {
   display: inline-block;
@@ -286,7 +282,9 @@ ul.line {
   height: 100%;
   text-align: center;
   color: #ffffff;
-  background-image: url('https://www.krasotaiskusstva.com/themes/merry-christmas/_images/snowh.png'), url('https://www.krasotaiskusstva.com/themes/merry-christmas/_images/snow3q.png'), url('https://www.krasotaiskusstva.com/themes/merry-christmas/_images/snow2l.png');
+  background-image: url("https://www.krasotaiskusstva.com/themes/merry-christmas/_images/snowh.png"),
+    url("https://www.krasotaiskusstva.com/themes/merry-christmas/_images/snow3q.png"),
+    url("https://www.krasotaiskusstva.com/themes/merry-christmas/_images/snow2l.png");
   -webkit-animation: snow 20s linear infinite;
   -moz-animation: snow 20s linear infinite;
   -ms-animation: snow 20s linear infinite;
@@ -329,10 +327,23 @@ ul.line {
   }
 }
 
-.snow-img{
+.snow-img {
   position: absolute;
   bottom: 0;
   left: 0;
   width: 100%;
   height: 30%;
+}
+
+.light-responsive {
+  display: none;
+}
+
+@media (max-width: 800px) {
+  .light-responsive {
+    display: block;
+  }
+  .light {
+    display: none;
+  }
 }

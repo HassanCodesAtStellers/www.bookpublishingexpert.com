@@ -17,7 +17,7 @@
             <img src="assets/images/script-writing-bg-image.jpeg">
             <div class="header-display-text-content">
                 <h1>Script Writing</h1>
-                <p>Turning Ideas into Scripts, Scripts into Stories.</p>
+                <p>Turning Your Concepts Into Engaging Scripts</p>
             </div>
         </section>
     </header>
@@ -31,13 +31,11 @@
                         <img src="assets/images/script-writing-image.webp">
                     </div>
                     <div class="section-16-main-text">
-                        <h1>YOUR IDEA, OUR SCRIPT – LET'S TELL YOUR STORY</h1>
+                        <h1>Scripts Designed to Engage Your Audience</h1>
 
-                        <p>Do you have a tale idea that is waiting for the proper words? Our screenplay writing staff is ready to help bridge the gap.</p>
+                        <p>Our script-writing services help turn your ideas into engaging stories. A script is a written blueprint for movies, TV shows, or videos, where we create dialogue, scenes, and actions that bring your story to life. </p>
 
-                        <p>Our authors create engaging, entertaining, and emotionally moving screenplays based on your ideas. Our screenplay writers meticulously design scenes, language, and characters for both film and theatre.</p>
-
-                        <p>Book Publisher Expert believes in bringing your story to life. Our focus is on creating memorable and meaningful moments, lines, and characters.</p>
+                        <p>We work closely with you to understand your vision and write a script that connects with your audience. From films to ads and online content, we’ll help you tell your story in the best way possible.</p>
 
                         <div class="section-16-buttons">
                             <a href="javascript:void(0)" class="show-popup">Get Started</a>
@@ -116,7 +114,7 @@
                         <div class="section-18-item">
                             <img src="assets/images/section-18-image06.webp">
                             <h4>Timely Delivery</h4>
-                            <p>OSet milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
+                            <p>Set milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 50% 100%;">
                             <img src="assets/images/section-18-image05.webp">

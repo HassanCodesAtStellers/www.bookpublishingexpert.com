@@ -232,7 +232,7 @@ $books = [
             <div class="author-page-layout">
                 <div class="author-page-container">
                     <h4>Books</h4>
-                    <p><a href="home">Home</a><i class="fa-sharp fa-solid fa-arrow-right-long"></i> Books</p>
+                    <p><a href="index.php">Home</a><i class="fa-sharp fa-solid fa-arrow-right-long"></i> Books</p>
                 </div>
             </div>
         </div>

@@ -57,7 +57,7 @@ $authors = [
             <div class="author-page-layout">
                 <div class="author-page-container">
                     <h4>Authors</h4>
-                    <p><a href="home">Home</a><i class="fa-sharp fa-solid fa-arrow-right-long"></i> Authors</p>
+                    <p><a href="index.php">Home</a><i class="fa-sharp fa-solid fa-arrow-right-long"></i> Authors</p>
                 </div>
             </div>
         </div>

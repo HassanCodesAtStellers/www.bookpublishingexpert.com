@@ -18,7 +18,7 @@
                     <img src="assets/images/404.png" alt="404">
                     <div class="error-section-text-content">
                         <h1>The Page You Are Looking Not Found</h1>
-                        <a href="home">Go Back To Home</a>
+                        <a href="index.php">Go Back To Home</a>
                     </div>
                 </div>
             </div>

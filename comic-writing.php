@@ -17,7 +17,7 @@
             <img src="assets/images/comic-writing-bg-image.jpg">
             <div class="header-display-text-content">
                 <h1>Comic Writing</h1>
-                <p>Scripting your imagination, frame by frame.</p>
+                <p>Turning your imagination into creative illustrations. </p>
             </div>
         </section>
     </header>
@@ -31,13 +31,11 @@
                         <img src="assets/images/comic-writing-image.webp">
                     </div>
                     <div class="section-16-main-text">
-                        <h1>PENNING THE EXTRAORDINARY, ONE FRAME AT A TIME</h1>
+                        <h1>Illustrating Your Vision With Comic Art</h1>
 
-                        <p>Allow your imagination to go wild, and watch our comic book authors bring it to life.</p>
+                        <p>We create comics that turn your ideas into fun and creative stories. Comics are a unique way to tell a story using both pictures and words. Need exciting characters, great plots, or appealing visuals? We’ve got you covered. </p>
 
-                        <p>Our comic book writing services combine creativity and skill, transforming your unique ideas into fascinating comic scripts.</p>
-
-                        <p>When it comes to creating a comic book plot, the practicalities of structure and components vary significantly from those of a graphic novel or screenplay. Book Publisher Expert understands the process from beginning to end. It's never been easier to write comic books online!</p>
+                        <p>Our team works closely with you to make sure everything matches your vision. Perfect for personal projects, business promotions, or entertainment, our comics build up your stories in a way, everyone will enjoy!</p>
 
                         <div class="section-16-buttons">
                             <a href="javascript:void(0)" class="show-popup">Get Started</a>
@@ -116,7 +114,7 @@
                         <div class="section-18-item">
                             <img src="assets/images/section-18-image06.webp">
                             <h4>Timely Delivery</h4>
-                            <p>OSet milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
+                            <p>Set milestones; receive frequent updates/notifications, and always have your drafts/complete manuscripts delivered on the decided dates with BPE autobiography ghost writing services.</p>
                         </div>
                         <div class="section-18-item" style="transform-origin: 50% 100%;">
                             <img src="assets/images/section-18-image05.webp">

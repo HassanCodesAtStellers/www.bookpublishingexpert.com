@@ -110,6 +110,20 @@ if (filter_has_var(INPUT_POST, 'submit')) {
                 <li class="green"></li>
             </ul>
         </div>
+
+        <div class="light-responsive">
+            <ul class="line">
+                <li class="red"></li>
+                <li class="yellow"></li>
+                <li class="green"></li>
+                <li class="red"></li>
+                <li class="yellow"></li>
+                <li class="green"></li>
+                <li class="red"></li>
+                <li class="yellow"></li>
+                <li class="green"></li>
+            </ul>
+        </div>
     </div>
     <div id="container"></div>
     <!-- <img src="assets/images/snow.png" alt="" class="snow-img" > -->
