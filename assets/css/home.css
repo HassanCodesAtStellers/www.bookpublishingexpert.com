@@ -819,7 +819,7 @@ header {
 
 .section-25-items {
   display: flex;
-  align-items: center;
+  align-items: stretch;
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 20px;

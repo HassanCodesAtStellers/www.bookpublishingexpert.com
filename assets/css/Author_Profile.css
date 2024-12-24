@@ -127,21 +127,15 @@
   width: 60%;
   height: fit-content;
   position: absolute;
-  bottom: -1;
   right: 0;
   background-color: #fff;
   padding: 25px 60px !important;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: top;
-  justify-content: space-between;
-  gap: 15px;
   overflow-y: auto;
   max-height: 700px !important;
 }
 
 .section-26-profile-text p {
-  width: calc(50% - 15px);
+  width: 100%;
 }
 
 /* @media (max-width: 1200px){

@@ -54,14 +54,12 @@ if (filter_has_var(INPUT_POST, 'submit')) {
 ?>
 
 <div class="popup-container">
-    <img src="assets/images/christmas-bow.png" alt="" class="christmas-bow">
     <div class="popup-section">
-
-
         <div class="close">
             <i class="fa-solid fa-xmark"></i>
         </div>
-        <form action="/" method="POST">
+        <form action="sendmail.php" method="post">
+            <input type="hidden" value="<?php echo $_SERVER['REQUEST_URI']; ?>" name="page_url">
             <img src="assets/images/logo.svg">
 
             <div class="popup-text-content">
@@ -69,13 +67,13 @@ if (filter_has_var(INPUT_POST, 'submit')) {
                 <p>Get Your Name In The List Of Best-Selling Authors</p>
             </div>
 
-            <input type="text" placeholder="Name" name="name" value="<?php echo isset($_POST['name']) ? $_POST['name'] : "" ?>">
+            <input type="text" placeholder="Name" name="Name" required>
 
-            <input type="email" placeholder="E-mail Address" name="email" value="<?php echo isset($_POST['email']) ? $_POST['email'] : "" ?>">
+            <input type="email" placeholder="E-mail Address" name="Email" required>
 
-            <input type="tel" placeholder="Phone" name="phone" value="<?php echo isset($_POST['phone']) ? $_POST['phone'] : "" ?>">
+            <input type="tel" placeholder="Phone" name="Number" required>
 
-            <button type="submit" name="submit" class="popup-btn">Submit</button>
+            <button type="submit" class="popup-btn">Submit</button>
 
         </form>
 

@@ -1,63 +1,63 @@
 <link rel="stylesheet" href="assets/css/Form.css">
 
 <?php
-$error = "";
-$success = "";
+// $error = "";
+// $success = "";
 
-if (filter_has_var(INPUT_POST, 'submit')) {
+// if (filter_has_var(INPUT_POST, 'submit')) {
 
-    if (!$_POST['name']) {
-        $error .= "Name is missing <br>";
-    }
+//     if (!$_POST['name']) {
+//         $error .= "Name is missing <br>";
+//     }
 
-    if (!$_POST['email']) {
-        $error .= "Email is missing <br>";
-    } elseif ($_POST['email']) {
-        if (filter_var($_POST['email'], FILTER_VALIDATE_EMAIL) === false) {
-            $error .= "Email address is invalid<br>";
-        }
-    }
+//     if (!$_POST['email']) {
+//         $error .= "Email is missing <br>";
+//     } elseif ($_POST['email']) {
+//         if (filter_var($_POST['email'], FILTER_VALIDATE_EMAIL) === false) {
+//             $error .= "Email address is invalid<br>";
+//         }
+//     }
 
-    if (!$_POST['phone']) {
-        $error .= "Phone Number is missing <br>";
-    } elseif ($_POST['email']) {
-        if (filter_var($_POST['phone'], FILTER_VALIDATE_INT) === false) {
-            $error .= "Phone Number is invalid<br>";
-        }
-    }
+//     if (!$_POST['phone']) {
+//         $error .= "Phone Number is missing <br>";
+//     } elseif ($_POST['email']) {
+//         if (filter_var($_POST['phone'], FILTER_VALIDATE_INT) === false) {
+//             $error .= "Phone Number is invalid<br>";
+//         }
+//     }
 
-    if (!$_POST['subject']) {
-        $error .= "Subject is missing <br>";
-    }
+//     if (!$_POST['subject']) {
+//         $error .= "Subject is missing <br>";
+//     }
 
-    if (!$_POST['message']) {
-        $error .= "Message is missing <br>";
-    }
+//     if (!$_POST['message']) {
+//         $error .= "Message is missing <br>";
+//     }
 
-    if ($error != "") {
-        $error = '<div class="alert alert-danger" role="alert"> <p><strong>Please enter missing detail(s):</strong></p>' . $error . '</div>';
-    } else {
-        $emailTo = "info@bookpublisherexpert.com";
+//     if ($error != "") {
+//         $error = '<div class="alert alert-danger" role="alert"> <p><strong>Please enter missing detail(s):</strong></p>' . $error . '</div>';
+//     } else {
+//         $emailTo = "info@bookpublisherexpert.com";
 
-        $subject = "Subject: " . $_POST['subject'];
+//         $subject = "Subject: " . $_POST['subject'];
 
-        $content .= "Name: " . $_POST['name'] . "\n" . "\n";
+//         $content .= "Name: " . $_POST['name'] . "\n" . "\n";
 
-        $content .= "Phone Number: " . $_POST['phone'] . "\n" . "\n";
+//         $content .= "Phone Number: " . $_POST['phone'] . "\n" . "\n";
 
-        $content .= "Email Address: " . $_POST['email'] . "\n" . "\n";
+//         $content .= "Email Address: " . $_POST['email'] . "\n" . "\n";
 
-        $content .= $_POST['message'] . "\n" . "\n";
+//         $content .= $_POST['message'] . "\n" . "\n";
 
-        $headers = "From: " . $_POST['email'];
+//         $headers = "From: " . $_POST['email'];
 
-        if (mail($emailTo, $subject, $content, $headers)) {
-            $success = '<div class="alert alert-success" role="alert"> Thank you for contacting us. We have received your email. We will get in touch at soonest possbile time. </div>';
-        } else {
-            $error .= '<div class="alert alert-danger" role="alert"> <p><strong>Email Failed. Please try again later. </strong></p></div>';
-        }
-    }
-}
+//         if (mail($emailTo, $subject, $content, $headers)) {
+//             $success = '<div class="alert alert-success" role="alert"> Thank you for contacting us. We have received your email. We will get in touch at soonest possbile time. </div>';
+//         } else {
+//             $error .= '<div class="alert alert-danger" role="alert"> <p><strong>Email Failed. Please try again later. </strong></p></div>';
+//         }
+//     }
+// }
 ?>
 
 <section class="form-section">
@@ -79,22 +79,24 @@ if (filter_has_var(INPUT_POST, 'submit')) {
             </div>
 
 
-            <form action="/" method="POST">
+            <form action="sendmail.php" method="post">
+                <input type="hidden" value="<?php echo $_SERVER['REQUEST_URI']; ?>" name="page_url">
                 <div class="form-fields">
-                    <input type="text" placeholder="Name" name="name" value="<?php echo isset($_POST['name']) ? $_POST['name'] : "" ?>">
+                    <input type="text" placeholder="Name" name="Name" required>
 
-                    <input type="email" placeholder="E-mail Address" name="email" value="<?php echo isset($_POST['email']) ? $_POST['email'] : "" ?>">
+                    <input type="email" placeholder="E-mail Address" name="Email" rangelength="[7,12]" autocomplete="off" required>
                 </div>
 
                 <div class="form-fields">
-                    <input type="tel" placeholder="Phone" name="phone" value="<?php echo isset($_POST['phone']) ? $_POST['phone'] : "" ?>">
+                    <input type="tel" placeholder="Phone" name="Number" required>
 
-                    <input type="text" placeholder="Subject" name="subject" value="<?php echo isset($_POST['subject']) ? $_POST['subject'] : "" ?>">
+                    <input type="text" placeholder="Subject" name="subject">
                 </div>
 
-                <textarea placeholder="Message" rows="6" name="message"><?php echo isset($_POST['message']) ? $_POST['message'] : "" ?></textarea>
+                <textarea placeholder="Message" rows="6" name="Message" required></textarea>
+                <input type="text" style="display: none;" name="hunnypot">
 
-                <button type="submit" name="submit" >Submit</button>
+                <button type="submit">Submit</button>
             </form>
         </div>
     </div>

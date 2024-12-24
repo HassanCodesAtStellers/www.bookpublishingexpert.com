@@ -4,12 +4,12 @@
 <footer>
     <div class="footer-layout">
         <div class="footer-container">
-            <a href="index.php">
+            <a href="/">
                 <img src="assets/images/logo-secondary.svg" alt="logo">
             </a>
             <div class="footer-menu">
                 <div class="footer-item">
-                    <a href="index.php"><span>
+                    <a href="/"><span>
                             HOME
                         </span>
                     </a>
@@ -57,11 +57,19 @@
             </div>
             <hr>
             <div class="footer-copyright">
-                <p>© <?php echo date('Y') ?>. All Rights Reserved.</p>
+                <p>© <?php echo date('Y') ?>. Book Publisher Expert All Rights Reserved.</p>
             </div>
         </div>
     </div>
     <div id="popup-container" style="display: none;"></div>
 </footer>
 
+
+<?php include("includes/Pop_up.php"); ?>
 <script src="assets/js/tawkto.config.js"></script>
+
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/25847832.js"></script>
+<!-- End of HubSpot Embed Code -->
+</body>
+</html>

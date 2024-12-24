@@ -57,10 +57,13 @@
 
 <section class="section-navbar" id="navbar">
     <nav>
+        <div class="banner-strip">
+            <img src="assets/images/banner-strip.png" alt="">
+        </div>
         <div class="navbar-layout">
             <div class="navbar-container">
                 <div class="navbar-logo-container">
-                    <a href="home">
+                    <a href="/">
                         <img src="assets/images/logo.svg" alt="logo">
                     </a>
                 </div>
@@ -68,7 +71,7 @@
                     <div class="navbar-menu">
                         <div class="navbar-item ">
                             <span>
-                                <a href="home">HOME</a>
+                                <a href="/">HOME</a>
                             </span>
                         </div>
                         <div class="navbar-item">
@@ -155,7 +158,7 @@
                     <div class="sandwich-menu">
                         <div class="sandwich-item">
                             <span>
-                                <a href="home">HOME</a>
+                                <a href="/">HOME</a>
                             </span>
                         </div>
                         <div class="sandwich-item">
